@@ -4,3 +4,17 @@
 {"level":"info","message":"⌛ Validating PdePFoni/PdePFoni.wlk","timeElapsed":169,"timestamp":"2026-10-31T22:10:15.560Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":138,"timestamp":"2026-10-31T22:10:18.001Z"}
 {"level":"info","message":"⌛ Validating PdePFoni/PdePFoni.wlk","timeElapsed":335,"timestamp":"2026-10-31T22:10:18.394Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":197,"timestamp":"2026-10-31T22:15:12.656Z"}
+{"level":"info","message":"⌛ Validating PdepBrawls2021/PdepBrawls.wlk","timeElapsed":120,"timestamp":"2026-10-31T22:15:12.786Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":328,"timestamp":"2026-10-31T22:28:33.583Z"}
+{"level":"info","message":"Removing diagnostics from /c:/Users/lucer/OneDrive/Desktop/PdP_Parciales_Wollok/PdepBrawls2021/pack","timestamp":"2026-10-31T22:28:33.764Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":369,"timestamp":"2026-10-31T22:28:40.392Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":112,"timestamp":"2026-10-31T22:28:40.504Z"}
+{"level":"info","message":"Removing diagnostics from /c:/Users/lucer/OneDrive/Desktop/PdP_Parciales_Wollok/PdepBrawls2021/package.json","timestamp":"2026-10-31T22:28:40.612Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":106,"timestamp":"2026-10-31T22:30:02.253Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":192,"timestamp":"2026-10-31T22:30:02.447Z"}
+{"level":"info","message":"⌛ Validating PdePFoni2019/PdePFoni.wlk","timeElapsed":160,"timestamp":"2026-10-31T22:30:02.683Z"}
+{"level":"info","message":"Removing diagnostics from /c:/Users/lucer/OneDrive/Desktop/PdP_Parciales_Wollok/PdePFoni","timestamp":"2026-10-31T22:30:02.683Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":336,"timestamp":"2026-10-31T22:31:50.604Z"}
+{"level":"info","message":"Removing diagnostics from /c:/Users/lucer/OneDrive/Desktop/PdP_Parciales_Wollok/PdepBrawls2021/PdePCatar2022","timestamp":"2026-10-31T22:31:50.763Z"}
+{"level":"info","message":"⌛ Validating PdePFoni2019/PdePFoni.wlk","timeElapsed":261,"timestamp":"2026-10-31T22:31:51.128Z"}
